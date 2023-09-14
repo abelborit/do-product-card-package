@@ -7,6 +7,7 @@ import {
   ProductInterface,
   initialValuesInterface,
 } from '../interfaces';
+
 import styles from '../styles/styles.module.css';
 
 /* para que sea más facil trabajar con las propiedades enviadas se puede usar su interface en el mismo componente para tenerlo de forma directa y ver qué se está recibiendo */
